@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s3.us-east-2.amazonaws.com
+  accessKey: AKIAIDMKDEINLEV2KLFA
+  secretKey: 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
+  bucketName: new-awesome-bucket-1
